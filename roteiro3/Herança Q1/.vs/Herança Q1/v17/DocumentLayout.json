@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE91B8B-535B-4004-8261-22CF5778EB5E}|Heran\u00E7a Q1.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\heran\u00E7a q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE91B8B-535B-4004-8261-22CF5778EB5E}|Heran\u00E7a Q1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE91B8B-535B-4004-8261-22CF5778EB5E}|Heran\u00E7a Q1.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\heran\u00E7a q1\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE91B8B-535B-4004-8261-22CF5778EB5E}|Heran\u00E7a Q1.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE91B8B-535B-4004-8261-22CF5778EB5E}|Heran\u00E7a Q1.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\heran\u00E7a q1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE91B8B-535B-4004-8261-22CF5778EB5E}|Heran\u00E7a Q1.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Cachorro.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\Cachorro.cs",
+              "RelativeToolTip": "Cachorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:54:22.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:53:47.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\Heran\u00E7a Q1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T00:50:41.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\bin\Debug\net8.0\InterfacesQ3.exe
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\bin\Debug\net8.0\InterfacesQ3.deps.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\bin\Debug\net8.0\InterfacesQ3.runtimeconfig.json
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\bin\Debug\net8.0\InterfacesQ3.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\bin\Debug\net8.0\InterfacesQ3.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.AssemblyInfoInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.AssemblyInfo.cs
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.csproj.CoreCompileInputs.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\refint\InterfacesQ3.dll
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.pdb
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\InterfacesQ3.genruntimeconfig.cache
+C:\Users\maxwi\Esamc_PERIODO1_SI\Esamc POO C#\roteiro3\InterfacesQ3\obj\Debug\net8.0\ref\InterfacesQ3.dll

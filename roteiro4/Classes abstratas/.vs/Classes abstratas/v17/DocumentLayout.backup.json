@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro4\\classes abstratas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro4\\classes abstratas\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|solutionrelative:gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro4\\classes abstratas\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|solutionrelative:programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro4\\classes abstratas\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62B1CFE-2FB9-4775-8B6F-012F9172D4D9}|Classes abstratas.csproj|solutionrelative:funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programador.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Programador.cs",
+              "RelativeDocumentMoniker": "Programador.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Programador.cs",
+              "RelativeToolTip": "Programador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T23:54:59.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Gerente.cs",
+              "RelativeDocumentMoniker": "Gerente.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Gerente.cs",
+              "RelativeToolTip": "Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T23:54:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T23:54:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro4\\Classes abstratas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T23:54:04.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

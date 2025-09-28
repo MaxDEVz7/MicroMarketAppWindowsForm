@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\interfaceq4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\interfaceq4\\peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|solutionrelative:peixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\interfaceq4\\aguia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|solutionrelative:aguia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\interfaceq4\\pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|solutionrelative:pato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\interfaceq4\\ivoar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|solutionrelative:ivoar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|c:\\users\\maxwi\\esamc_periodo1_si\\esamc poo c#\\roteiro3\\interfaceq4\\inadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{504BD79C-CF0B-4F12-A467-66859F6E97A5}|InterfaceQ4.csproj|solutionrelative:inadar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peixe.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Peixe.cs",
+              "RelativeDocumentMoniker": "Peixe.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Peixe.cs",
+              "RelativeToolTip": "Peixe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:37:55.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aguia.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Aguia.cs",
+              "RelativeDocumentMoniker": "Aguia.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Aguia.cs",
+              "RelativeToolTip": "Aguia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:37:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pato.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Pato.cs",
+              "RelativeDocumentMoniker": "Pato.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Pato.cs",
+              "RelativeToolTip": "Pato.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:37:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INadar.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\INadar.cs",
+              "RelativeDocumentMoniker": "INadar.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\INadar.cs",
+              "RelativeToolTip": "INadar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:36:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVoar.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\IVoar.cs",
+              "RelativeDocumentMoniker": "IVoar.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\IVoar.cs",
+              "RelativeToolTip": "IVoar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:36:07.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maxwi\\Esamc_PERIODO1_SI\\Esamc POO C#\\roteiro3\\InterfaceQ4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T01:35:39.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
